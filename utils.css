@@ -1,0 +1,132 @@
+.min-h-screen{
+    min-height: 100vh ;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin-left: auto ;
+    margin-right: auto ;
+}
+
+.flex{
+    display: flex ;
+}
+
+.items-center{
+    align-items: center ;
+}
+
+.justify-between{
+    justify-content: space-between ;
+}
+
+.justify-center{
+    justify-content: center ;
+}
+
+.font-bold{
+    font-weight: bolder ;
+}
+
+.flex-col{
+    flex-direction: column ;
+}
+
+.my-1{
+    margin-top: 13px ;
+    margin-bottom: 13px ;
+}
+
+.my-2{
+    margin-top: 26px ;
+    margin-bottom: 26px ;
+}
+
+.px-2{
+    padding-left: 13px ;
+    padding-right: 13px ;
+}
+
+.box{
+    padding: 8px 0 ;
+    margin: 12px 22px ;
+    min-width: 20vw ;
+    border: 2px solid rgb(119 , 31 , 90) ;
+    border-radius: 8px ;
+    text-align: center ;
+}
+
+.box h2{
+    font-size: 2rem ;
+    padding: 15px  0;
+}
+
+.highlighted{
+    font-size: 1.2rem ;
+    font-weight: bolder ;
+}
+
+.box ul{
+    list-style-type: none ;
+}
+
+.box ul li{
+    margin: 12px 2px ;
+}
+
+.text-blue{
+    color: rgb(50 , 50 , 158);
+}
+
+.btn{
+    padding: 7px 12px  ;
+    border: 2px solid white;
+    border-radius: 12px ;
+    cursor: pointer ;
+    color: white ;
+    background-color: rgb(50, 50, 158);
+}
+
+ .overflow-scroll{ 
+    overflow-scroll : smooth ; 
+ }
+
+
+.plantable{
+    display: flex ;
+    justify-content: center ;
+    align-items: center ;
+}
+
+.section3 table{
+    width: 100% ;
+    margin-bottom: 140px ;
+    margin-top: 20px ;
+    border-collapse: collapse ;
+}
+
+.section3 table th{
+    width: 23vw ;
+    border-bottom: 2px solid black ;
+    border-right: 2px solid black ;
+    padding: 15px 0 ;
+    margin: 12px ;
+}
+
+.section3 table td{
+    border-bottom: 2px solid black ;
+    border-right: 2px solid black ;
+    text-align: center ;
+}
+
+.section3 table tr{
+    border-bottom: 2px solid black ;
+    border-radius: 2px solid black ;
+}
+
+.section3 h1{
+    font-size: 2.3rem ;
+}
